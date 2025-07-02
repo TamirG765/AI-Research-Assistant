@@ -19,3 +19,16 @@ An interactive AI-powered research assistant built with Streamlit and Hugging Fa
 5. Download your comprehensive research report
 
 Built with LangGraph, LangChain, and Streamlit.
+
+---
+title: AI Research Assistant
+emoji: 🚀
+colorFrom: red
+colorTo: red
+sdk: docker
+app_port: 8501
+tags:
+- streamlit
+pinned: false
+short_description: Streamlit template space
+---
