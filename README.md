@@ -1,6 +1,8 @@
 # AI Research Assistant 
 
-An automated multi-agent research system powered by LangGraph that generates comprehensive research reports.
+An interactive AI-powered research assistant built with Streamlit and Hugging Face Spaces.
+
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20View%20on%20Hugging%20Face-blue?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/TamirG765/AI-Research-Assistant)
 
 ## Features
 - AI analyst generation with custom perspectives
