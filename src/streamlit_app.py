@@ -131,7 +131,7 @@ class ResearchAssistantApp:
             
             topic = st.text_area(
                 "Research Topic",
-                value="The benefits of adopting LangGraph as an agent framework",
+                value="Machine Learning and Computer Vision",
                 height=100,
                 help="Enter the topic you want to research"
             )
